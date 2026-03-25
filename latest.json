@@ -7,5 +7,6 @@
     "Windowsでテキスト・スタンプ・画像注釈が出力PDFに反映されないバグを修正",
     "Windowsで墨消し実行時に白塗り化・アプリが落ちるバグを修正"
   ],
-  "article_url": "https://note.com/lively_viola52/n/n2a575920e31c"
+  "article_url": "https://note.com/lively_viola52/n/n2a575920e31c",
+  "guest_note": "noteの会員登録をせずに購入した場合、アプリ上の「noteを開く」からは記事を開けません。購入時に届いたメールのURLからアクセスしてください。noteの会員登録をすると、アプリ上のリンクからも開けるようになります。"
 }
